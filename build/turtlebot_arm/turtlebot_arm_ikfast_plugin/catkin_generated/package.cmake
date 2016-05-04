@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_arm_ikfast_plugin")
+set(turtlebot_arm_ikfast_plugin_MAINTAINER "Jorge Santos <jsantossimon@gmail.com>")
+set(turtlebot_arm_ikfast_plugin_DEPRECATED "")
+set(turtlebot_arm_ikfast_plugin_VERSION "0.3.3")
+set(turtlebot_arm_ikfast_plugin_BUILD_DEPENDS "cmake_modules" "moveit_core" "pluginlib" "roscpp" "tf_conversions")
+set(turtlebot_arm_ikfast_plugin_RUN_DEPENDS "cmake_modules" "moveit_core" "pluginlib" "roscpp" "tf_conversions")
+set(turtlebot_arm_ikfast_plugin_BUILDTOOL_DEPENDS "catkin")

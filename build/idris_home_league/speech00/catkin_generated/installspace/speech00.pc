@@ -1,0 +1,8 @@
+prefix=/home/asaad/idris/install
+
+Name: speech00
+Description: Description of speech00
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/asaad/idris/install/lib 
+Requires: 

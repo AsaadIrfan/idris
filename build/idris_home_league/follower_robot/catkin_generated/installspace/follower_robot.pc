@@ -1,0 +1,8 @@
+prefix=/home/asaad/idris/install
+
+Name: follower_robot
+Description: Description of follower_robot
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/asaad/idris/install/lib 
+Requires: 

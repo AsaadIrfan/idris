@@ -1,0 +1,8 @@
+prefix=/home/asaad/idris/install
+
+Name: idris_teleop
+Description: Description of idris_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/asaad/idris/install/lib 
+Requires: 

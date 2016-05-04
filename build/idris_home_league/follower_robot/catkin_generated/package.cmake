@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "follower_robot")
+set(follower_robot_MAINTAINER "nomo <noumantahir@live.com>")
+set(follower_robot_DEPRECATED "")
+set(follower_robot_VERSION "0.0.1")
+set(follower_robot_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(follower_robot_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(follower_robot_BUILDTOOL_DEPENDS "catkin")

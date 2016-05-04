@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "idris_robot")
+set(idris_robot_MAINTAINER "nomo <nomo@todo.todo>")
+set(idris_robot_DEPRECATED "")
+set(idris_robot_VERSION "0.0.0")
+set(idris_robot_BUILD_DEPENDS )
+set(idris_robot_RUN_DEPENDS )
+set(idris_robot_BUILDTOOL_DEPENDS "catkin")

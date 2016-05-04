@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "idris_teleop")
+set(idris_teleop_MAINTAINER "nomo <nomo@todo.todo>")
+set(idris_teleop_DEPRECATED "")
+set(idris_teleop_VERSION "0.0.0")
+set(idris_teleop_BUILD_DEPENDS )
+set(idris_teleop_RUN_DEPENDS )
+set(idris_teleop_BUILDTOOL_DEPENDS "catkin")

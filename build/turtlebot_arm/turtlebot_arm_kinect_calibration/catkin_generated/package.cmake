@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_arm_kinect_calibration")
+set(turtlebot_arm_kinect_calibration_MAINTAINER "Jorge Santos <jsantossimon@gmail.com>")
+set(turtlebot_arm_kinect_calibration_DEPRECATED "")
+set(turtlebot_arm_kinect_calibration_VERSION "0.3.3")
+set(turtlebot_arm_kinect_calibration_BUILD_DEPENDS "cmake_modules" "cv_bridge" "image_geometry" "image_transport" "pcl_ros" "roscpp" "tf" "visualization_msgs")
+set(turtlebot_arm_kinect_calibration_RUN_DEPENDS "cv_bridge" "image_geometry" "image_transport" "pcl_ros" "roscpp" "tf" "visualization_msgs")
+set(turtlebot_arm_kinect_calibration_BUILDTOOL_DEPENDS "catkin")

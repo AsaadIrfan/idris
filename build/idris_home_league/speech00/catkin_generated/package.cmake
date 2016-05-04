@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "speech00")
+set(speech00_MAINTAINER "vayrvalker <vayrvalker@todo.todo>")
+set(speech00_DEPRECATED "")
+set(speech00_VERSION "0.0.0")
+set(speech00_BUILD_DEPENDS "message_generation" "pocketsphinx" "roscpp" "sound_play" "std_msgs")
+set(speech00_RUN_DEPENDS "message_runtime" "pocketsphinx" "roscpp" "sound_play" "std_msgs")
+set(speech00_BUILDTOOL_DEPENDS "catkin")
