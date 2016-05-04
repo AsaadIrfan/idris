@@ -90,3 +90,4 @@ face_recognition/CMakeFiles/Fclient.dir/src/face_rec_client.cpp.o
  /opt/ros/hydro/include/ros/wall_timer_options.h
  /opt/ros/hydro/include/rosconsole/macros_generated.h
  /opt/ros/hydro/include/std_msgs/Header.h
+ /opt/ros/hydro/include/std_msgs/String.h

@@ -2,4 +2,4 @@
 source_root_dir = "/home/asaad/idris/src"
 whitelisted_packages = "".split(';') if "" != "" else []
 blacklisted_packages = "".split(';') if "" != "" else []
-underlay_workspaces = "/home/asaad/face_recognition/devel;/opt/ros/hydro".split(';') if "/home/asaad/face_recognition/devel;/opt/ros/hydro" != "" else []
+underlay_workspaces = "/home/asaad/idris/devel;/home/asaad/face_recognition/devel;/opt/ros/hydro".split(';') if "/home/asaad/idris/devel;/home/asaad/face_recognition/devel;/opt/ros/hydro" != "" else []
